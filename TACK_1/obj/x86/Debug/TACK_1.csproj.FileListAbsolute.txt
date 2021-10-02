@@ -5,3 +5,4 @@ E:\TACK_1\TACK_1\obj\x86\Debug\TACK_1.Properties.Resources.resources
 E:\TACK_1\TACK_1\obj\x86\Debug\TACK_1.csproj.GenerateResource.Cache
 E:\TACK_1\TACK_1\obj\x86\Debug\TACK_1.exe
 E:\TACK_1\TACK_1\obj\x86\Debug\TACK_1.pdb
+E:\TACK_1\TACK_1\obj\x86\Debug\TACK_1.csprojResolveAssemblyReference.cache
